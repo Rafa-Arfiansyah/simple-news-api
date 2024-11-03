@@ -24,8 +24,8 @@ Ikuti langkah-langkah berikut untuk menginstal dan menjalankan proyek ini di lok
 
 1. **Clone Repository**
    ```bash
-   git clone https://github.com/Rafa-Arfiansyah/simple-news.api.git
-   cd simple-news.api
+   git clone https://github.com/Rafa-Arfiansyah/simple-news-api.git
+   cd simple-news-api
    ```
 
 2. **Instal Dependensi**
