@@ -94,4 +94,3 @@ Jika Anda memiliki pertanyaan atau masukan, jangan ragu untuk menghubungi saya d
 ---
 
 Terima kasih telah menggunakan **News API Indonesia**! Semoga aplikasi ini bermanfaat untuk Anda.
-```
